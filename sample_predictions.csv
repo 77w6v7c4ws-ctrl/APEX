@@ -1,0 +1,13 @@
+date,sport,market,selection,model_probability,odds,result,closing_odds,book,model_version
+2026-08-01,NFL,player_rush_yds,Player A Over,0.64,-110,1,-125,Book A,v1
+2026-08-02,NFL,player_rush_yds,Player B Over,0.58,105,0,100,Book A,v1
+2026-08-03,NFL,player_pass_yds,Player C Over,0.71,-115,1,-140,Book B,v1
+2026-08-04,NFL,player_pass_yds,Player D Over,0.66,-105,0,-110,Book B,v1
+2026-08-05,NBA,player_points,Player E Over,0.62,-110,1,-120,Book A,v1
+2026-08-06,NBA,player_points,Player F Over,0.57,100,1,-105,Book A,v1
+2026-08-07,NBA,player_rebounds,Player G Over,0.69,-120,0,-115,Book C,v1
+2026-08-08,NBA,player_rebounds,Player H Over,0.55,-105,1,-115,Book C,v1
+2026-08-09,MLB,pitcher_strikeouts,Player I Over,0.63,-110,1,-130,Book D,v1
+2026-08-10,MLB,pitcher_strikeouts,Player J Over,0.61,-105,0,-100,Book D,v1
+2026-08-11,MLB,batter_total_bases,Player K Over,0.59,110,1,100,Book D,v1
+2026-08-12,MLB,batter_total_bases,Player L Over,0.67,-115,1,-135,Book D,v1

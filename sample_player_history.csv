@@ -1,0 +1,6 @@
+date,player,team,opponent,market,result,minutes,usage,availability
+2026-08-01,Player One,North City,South City,player_rush_yds,82,72,74,100
+2026-08-08,Player One,North City,East Town,player_rush_yds,77,70,73,100
+2026-08-15,Player One,North City,West Town,player_rush_yds,69,65,69,95
+2026-08-22,Player One,North City,South City,player_rush_yds,88,76,78,100
+2026-08-29,Player One,North City,West Town,player_rush_yds,91,80,81,100
